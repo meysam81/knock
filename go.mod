@@ -2,7 +2,7 @@ module github.com/meysam81/knock
 
 go 1.26
 
-require golang.org/x/oauth2 v0.25.0
+require golang.org/x/oauth2 v0.27.0
 
 require (
 	cloud.google.com/go/compute/metadata v0.6.0 // indirect
