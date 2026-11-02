@@ -1,6 +1,6 @@
 module github.com/meysam81/knock
 
-go 1.26
+go 1.27.3
 
 require golang.org/x/oauth2 v0.25.0
 
